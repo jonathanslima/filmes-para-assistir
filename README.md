@@ -1,8 +1,8 @@
 ---
 author: Jonathan
-year:   2016
-itens: 	22/25
-tag: 		Front End
+year:   2017
+itens: 	01/57
+tag: 		Assistir filmes
 ---
 
 # Filmes para assistir
@@ -58,7 +58,7 @@ tag: 		Front End
 49. [ ] - A Teoria de Tudo
 50. [ ] - Whiplash
 51. [ ] - Spotlight
-52. [ ] - A Grande Aposta
+52. [x] - A Grande Aposta
 53. [ ] - O Quarto de Jack
 54. [ ] - Um Limite entre Nós
 55. [ ] - A Qualquer Custo 
