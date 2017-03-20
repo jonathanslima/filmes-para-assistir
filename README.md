@@ -22,7 +22,7 @@ tag: 		Assistir filmes
 13. [ ] - Os Bons Companheiros
 14. [ ] - Os imperdoáveis
 15. [ ] - A Lista de Schindler
-16. [x] - O Fugitivo
+16. [x] - O Fugitivo - Nota 6.5/10
 17. [ ] - Pulp Fiction
 18. [ ] - Gênio Indomável
 19. [ ] - A Vida É Bela
@@ -58,7 +58,7 @@ tag: 		Assistir filmes
 49. [ ] - A Teoria de Tudo
 50. [ ] - Whiplash
 51. [ ] - Spotlight
-52. [x] - A Grande Aposta
+52. [x] - A Grande Aposta - Nota 8/10
 53. [ ] - O Quarto de Jack
 54. [ ] - Um Limite entre Nós
 55. [ ] - A Qualquer Custo 
