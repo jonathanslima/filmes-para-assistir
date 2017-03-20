@@ -1,7 +1,7 @@
 ---
 author: Jonathan
 year:   2017
-itens: 	01/57
+itens: 	02/57
 tag: 		Assistir filmes
 ---
 
@@ -22,7 +22,7 @@ tag: 		Assistir filmes
 13. [ ] - Os Bons Companheiros
 14. [ ] - Os imperdoáveis
 15. [ ] - A Lista de Schindler
-16. [ ] - O Fugitivo
+16. [x] - O Fugitivo
 17. [ ] - Pulp Fiction
 18. [ ] - Gênio Indomável
 19. [ ] - A Vida É Bela
