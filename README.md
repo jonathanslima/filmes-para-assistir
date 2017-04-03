@@ -30,7 +30,7 @@ tag: 		Assistir filmes
 21. [ ] - O Informante
 22. [ ] - Gangues de Nova York
 23. [ ] - Sobre Meninos e Lobos
-24. [ ] - Sobre Meninos e Lobos
+24. [ ] - Manchester à Beira-Mar
 25. [ ] - Munique
 26. [ ] - Cartas de Iwo Jima
 27. [ ] - Sangue Negro
@@ -63,4 +63,3 @@ tag: 		Assistir filmes
 54. [ ] - Um Limite entre Nós
 55. [ ] - A Qualquer Custo 
 56. [ ] - La La Land
-57. [ ] - Manchester à Beira-Mar
