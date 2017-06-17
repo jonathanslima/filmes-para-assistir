@@ -29,7 +29,7 @@ tag: 		Assistir filmes
 20. [ ] - O Resgate do Soldado Ryan
 21. [ ] - O Informante
 22. [ ] - Gangues de Nova York
-23. [ ] - Sobre Meninos e Lobos
+23. [x] - Sobre Meninos e Lobos - Nota 9.1/10
 24. [ ] - Manchester à Beira-Mar
 25. [ ] - Munique
 26. [ ] - Cartas de Iwo Jima
