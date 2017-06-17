@@ -7,6 +7,11 @@ tag: 		Assistir filmes
 
 # Filmes para assistir
 
+23. [x] - Sobre Meninos e Lobos 		- Nota 9.1/10
+18. [x] - Gênio Indomável 					- Nota 8.8/10
+52. [x] - A Grande Aposta 					- Nota 8/10
+16. [x] - O Fugitivo 								- Nota 6.5/10
+
 01. [ ] - Moonlight: Sob a luz do luar
 02. [ ] - Patton, Rebelde ou Herói?
 03. [ ] - O Poderoso Chefão
@@ -22,14 +27,11 @@ tag: 		Assistir filmes
 13. [ ] - Os Bons Companheiros
 14. [ ] - Os imperdoáveis
 15. [ ] - A Lista de Schindler
-16. [x] - O Fugitivo - Nota 6.5/10
 17. [ ] - Pulp Fiction
-18. [x] - Gênio Indomável - Nota 8.8/10
 19. [ ] - A Vida É Bela
 20. [ ] - O Resgate do Soldado Ryan
 21. [ ] - O Informante
 22. [ ] - Gangues de Nova York
-23. [x] - Sobre Meninos e Lobos - Nota 9.1/10
 24. [ ] - Manchester à Beira-Mar
 25. [ ] - Munique
 26. [ ] - Cartas de Iwo Jima
@@ -58,7 +60,6 @@ tag: 		Assistir filmes
 49. [ ] - A Teoria de Tudo
 50. [ ] - Whiplash
 51. [ ] - Spotlight
-52. [x] - A Grande Aposta - Nota 8/10
 53. [ ] - O Quarto de Jack
 54. [ ] - Um Limite entre Nós
 55. [ ] - A Qualquer Custo 
