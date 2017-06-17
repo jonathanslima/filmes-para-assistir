@@ -24,7 +24,7 @@ tag: 		Assistir filmes
 15. [ ] - A Lista de Schindler
 16. [x] - O Fugitivo - Nota 6.5/10
 17. [ ] - Pulp Fiction
-18. [ ] - Gênio Indomável
+18. [x] - Gênio Indomável - Nota 8.8/10
 19. [ ] - A Vida É Bela
 20. [ ] - O Resgate do Soldado Ryan
 21. [ ] - O Informante
