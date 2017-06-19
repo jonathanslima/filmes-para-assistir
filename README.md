@@ -1,16 +1,17 @@
 ---
 author: Jonathan
 year:   2017
-itens: 	04/57
+itens: 	05/57
 tag: 		Assistir filmes
 ---
 
 # Filmes para assistir
 
-23. [x] - Sobre Meninos e Lobos 		- Nota 9.1/10
-18. [x] - Gênio Indomável 					- Nota 8.8/10
-52. [x] - A Grande Aposta 					- Nota 8/10
-16. [x] - O Fugitivo 								- Nota 6.5/10
+20. [x] - O Resgate do Soldado Ryan 				- Nota 9.2/10
+23. [x] - Sobre Meninos e Lobos 						- Nota 9.1/10
+18. [x] - Gênio Indomável 									- Nota 8.8/10
+52. [x] - A Grande Aposta 									- Nota 8/10
+16. [x] - O Fugitivo 												- Nota 6.5/10
 
 01. [ ] - Moonlight: Sob a luz do luar
 02. [ ] - Patton, Rebelde ou Herói?
@@ -29,7 +30,6 @@ tag: 		Assistir filmes
 15. [ ] - A Lista de Schindler
 17. [ ] - Pulp Fiction
 19. [ ] - A Vida É Bela
-20. [ ] - O Resgate do Soldado Ryan
 21. [ ] - O Informante
 22. [ ] - Gangues de Nova York
 24. [ ] - Manchester à Beira-Mar
